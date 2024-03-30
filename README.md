@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emna Mneja</h1>
-<h3 align="center">There is so many problems to solve</h3>
+<h3 align="center">There are so many problems to solve</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
